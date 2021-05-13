@@ -1,0 +1,207 @@
+                                .btn-outline-success {
+                                    color: #8400EC;
+                                    border-color: #8400EC;
+                                    font-weight: 500;
+                                }
+                                /* body {
+                            background-color: black;
+                        }
+                        */
+                                
+                                .clear_form {
+                                    color: #8400EC
+                                }
+                                
+                                .btn {
+                                    background-color: #8400EC;
+                                    color: white;
+                                }
+                                
+                                .computer {
+                                    height: 300px;
+                                }
+                                /*.navbar {
+                            background-color: #ccc;
+                            animation-name: ask;
+                            animation-duration: 5s;
+                            animation-iteration-count: infinite;
+                        }
+                        @keyframes ask {
+                            0% {
+                                background-color: #8400EC;
+                            }
+                            25% {
+                                background-color: #8D18B8;
+                            }
+                            50% {
+                                background-color: #610E7F;
+                            }
+                            75% {
+                                background-color: #7A5288;
+                            }
+                            90% {
+                                background-color: #6B3D7B;
+                            }
+                            100% {
+                                background-color: #8400EC;
+                            }
+                        }
+                        
+                        .changing_color {
+                            animation-name: askii;
+                            animation-duration: 6s;
+                            animation-iteration-count: infinite
+                        }
+                        
+                        */
+                                /*@keyframes askii {
+                            0% {
+                                color: white;
+                            }
+                            50% {
+                                color: black;
+                            }
+                            75% {
+                                color: black;
+                            }
+                            100% {
+                                color: white;
+                            }
+                        }
+                        */
+                                
+                                .close {
+                                    color: #8400EC;
+                                    font-weight: 50px;
+                                }
+                                
+                                .section-1 {
+                                    background-color: aliceblue;
+                                    min-height: 350px;
+                                }
+                                
+                                .title_intro {
+                                    font-size: 50px;
+                                }
+                                
+                                .intro {
+                                    font-size: 50px;
+                                    text-align: center;
+                                }
+                                
+                                .intro_1 {
+                                    text-align: center;
+                                    font-size: 20px;
+                                }
+                                
+                                .my_logo {
+                                    height: 250px;
+                                    margin-left: auto;
+                                    margin-right: auto;
+                                    width: auto;
+                                }
+                                
+                                .section_2 {
+                                    min-height: 400px;
+                                    background-color: #8400EC;
+                                }
+                                
+                                .about_text {
+                                    margin-top: 50px;
+                                }
+                                
+                                .section_3 {
+                                    min-height: 500px;
+                                    min-width: 70%;
+                                    border-color: #8400EC;
+                                    background-color: white;
+                                    margin-top: -50px;
+                                }
+                                
+                                .list-unstyled {
+                                    font-size: 20px;
+                                }
+                                
+                                .title_logo {
+                                    height: 40px;
+                                }
+                                
+                                .divider_line {
+                                    width: 250px;
+                                    background-color: #8400EC;
+                                }
+                                
+                                .section_4 {
+                                    min-height: 500px;
+                                    background-color: #8400EC;
+                                }
+                                
+                                .projects {
+                                    min-height: 250px;
+                                    background-color: white;
+                                }
+                                
+                                .section_5 {
+                                    min-height: 110px;
+                                    margin-top: -20px;
+                                    background-color: #2b0647;
+                                }
+                                
+                                .section_6 {
+                                    min-height: 650px;
+                                }
+                                
+                                .card {
+                                    border-radius: 20px;
+                                }
+                                
+                                .card-img-center {
+                                    height: 370px;
+                                    width: auto;
+                                    padding: auto;
+                                }
+                                
+                                .testimonials {
+                                    min-height: 500px;
+                                    margin-top: 24px;
+                                }
+                                
+                                .footer {
+                                    min-height: 300px;
+                                }
+                                
+                                .sir_img {
+                                    max-height: 50px;
+                                    max-width: auto;
+                                }
+                                
+                                .foot_title {
+                                    padding-top: 50px;
+                                }
+                                
+                                .contact_imgs {
+                                    height: 50px;
+                                }
+                                
+                                .section_6 {
+                                    min-height: 550px;
+                                    background-color: #8400EC;
+                                }
+                                
+                                .services_images {
+                                    max-width: 100%;
+                                    max-height: 465px;
+                                    float: center;
+                                    color: black;
+                                }
+                                
+                                .hr_undertitle {
+                                    width: 100px;
+                                    background-color: white;
+                                }
+                                
+                                .title_ask {
+                                    color: #8400EC;
+                                }
+
+                                

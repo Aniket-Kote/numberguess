@@ -1,0 +1,11 @@
+    .section_1 {
+        background-image: url('images/titlebg.jpg');
+    }
+    
+    section {
+        min-height: 300px;
+    }
+    
+    .titlebg {
+        min-height: 300px;
+    }
